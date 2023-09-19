@@ -1,9 +1,9 @@
 ## About Me
-<p>Name:</pCody Flerchinger>
-<p>Preferred Name:</pCody>
-<p>Grade Level:</p10th>
-<p>Email:</p26cflerchinger@adriansd.org>
-<p>Computer Science Courses Taken:</pintrodustion to computer science>
-<p>Computer Science Interest Areas:</pgame coding>
-<p>After High School Plans:</pwork on a farm> 
+<p>Name:cody Flerchinger</p>
+<p>Preferred Name:cody</p>
+<p>Grade Level:10th</p>
+<p>Email:26cflerchinger@adriansd.org</p>
+<p>Computer Science Courses Taken:introductiong to computer science</p>
+<p>Computer Science Interest Areas:game coding</p>
+<p>After High School Plans:work on foarm</p> 
 
